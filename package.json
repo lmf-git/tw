@@ -1,0 +1,12 @@
+{
+  "name": "tw",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "http-server -p 3000 --cors"
+  },
+  "dependencies": {
+    "http-server": "^14.1.1"
+  }
+}
